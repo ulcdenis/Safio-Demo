@@ -1,6 +1,6 @@
 # safio_demo
 
-A new Flutter project.
+A demo Flutter project.
 
 ## Getting Started
 
