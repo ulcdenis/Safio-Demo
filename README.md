@@ -1,4 +1,4 @@
-# safio_demo
+# Safio Demo
 
 A demo Flutter project.
 
