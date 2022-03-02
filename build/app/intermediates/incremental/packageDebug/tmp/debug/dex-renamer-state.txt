@@ -1,0 +1,7 @@
+#Wed Mar 02 17:17:05 CET 2022
+base.1=/Users/denisulc/StudioProjects/safio_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
+path.1=classes2.dex
+base.0=/Users/denisulc/StudioProjects/safio_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

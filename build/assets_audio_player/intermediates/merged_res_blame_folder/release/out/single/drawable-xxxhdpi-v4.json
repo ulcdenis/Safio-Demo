@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_rewind.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_rewind.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_speed.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_speed.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_fastforward.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_fastforward.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_fullscreen_exit.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_forward.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_forward.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_pause.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_subtitle_off.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_subtitle_off.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_previous.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_play_circle_filled.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_play_circle_filled.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_check.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_check.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_play.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_skip_previous.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_skip_previous.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_repeat_one.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_rewind.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_default_album_image.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_default_album_image.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_pause_circle_filled.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_pause_circle_filled.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_skip_next.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_skip_next.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_shuffle_on.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_repeat_off.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_repeat_all.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_subtitle_on.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_subtitle_on.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_audiotrack.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_audiotrack.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_settings.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_settings.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_stop.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_shuffle_off.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_fullscreen_enter.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_circular_play.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_circular_play.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_chevron_right.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_chevron_right.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_ic_chevron_left.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_ic_chevron_left.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_fullscreen_exit.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_next.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/drawable-xxxhdpi-v4/exo_icon_fullscreen_enter.png",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/drawable-xxxhdpi-v4/exo_icon_fullscreen_enter.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/layout-v23/exo_styled_player_control_ffwd_button.xml",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/layout-v23/exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "/Users/denisulc/StudioProjects/safio_demo/build/assets_audio_player/intermediates/res/merged/release/layout-v23/exo_styled_player_control_rewind_button.xml",
+        "source": "/Users/denisulc/.gradle/caches/transforms-2/files-2.1/d789b7c47fd01600db145feaea82e636/jetified-exoplayer-ui-2.15.0/res/layout-v23/exo_styled_player_control_rewind_button.xml"
+    }
+]
